@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Summarize Text",
+    "prompt": "Summarize the following text: {text}"
+  },
+  {
+    "id": "2",
+    "name": "Translate Text",
+    "prompt": "Translate the following text to Spanish: {text}"
+  }
+]

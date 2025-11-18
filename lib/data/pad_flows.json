@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "PAD Flow 1",
+    "path": "C:\\PAD_Flows\\flow1.bat",
+    "args": "{input}"
+  },
+  {
+    "id": "2",
+    "name": "PAD Flow 2",
+    "path": "C:\\PAD_Flows\\flow2.exe",
+    "args": "-i {input} -o {output}"
+  }
+]
